@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<psalm name="elixir-framework/dependency-injection Static Analysis Tests."
+<psalm name="elixir-framework/autoloading Static Analysis Tests."
        stopOnFirstError="false"
        useDocblockTypes="true"
        totallyTyped="true">
