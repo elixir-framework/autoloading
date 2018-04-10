@@ -24,7 +24,7 @@
          timeoutForLargeTests="60"
          verbose="false">
     <testsuites>
-        <testsuite name="elixir-framework/dependency-injection Test Suite">
+        <testsuite name="elixir-framework/autoloading Test Suite">
             <directory suffix=".php">./tests</directory>
         </testsuite>
     </testsuites>
